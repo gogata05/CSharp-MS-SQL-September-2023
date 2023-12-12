@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AchtYT3.png" alt="Certificate"/>
+<img src="https://i.imgur.com/AchtYT3.png" alt="Certificate"/> 
 
 ### 📚 SoftUni C# MS SQL September 2023
 
