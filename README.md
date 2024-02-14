@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/AchtYT3.png" alt="Certificate"/> 
 
 ### 📚 SoftUni C# MS SQL September 2023
-
+ 
 Welcome to the SoftUni C# MS SQL September 2023 course repository! This intensive course covers the fundamentals of working with databases, focusing on one of the most widely used database management systems (DBMS) in modern information systems development - Microsoft SQL Server.
 
 #### About the Course
