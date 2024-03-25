@@ -5,7 +5,7 @@
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4182/ms-sql-september-2023)
  
 Welcome to the SoftUni C# MS SQL September 2023 course repository! This intensive course covers the fundamentals of working with databases, focusing on one of the most widely used database management systems (DBMS) in modern information systems development - Microsoft SQL Server.
-
+ 
 #### About the Course
 
 Databases are the standard way of handling dynamic information in modern technology, making them an integral part of almost every application. This intensive course on database fundamentals will introduce students to one of the most widely used database management systems (DBMS) in modern information system development - Microsoft SQL Server. The course emphasizes the relational model, data modeling with ER diagrams (tables and relational relationships), and working with the SQL language (data retrieval, selection, projection, joins, aggregation, grouping, modification, deletion, and insertion).
